@@ -1,4 +1,4 @@
-# workflow_chatbot_faq_telegram_for_school
+# workflow_chatbot_faq_telegram_for_school using n8n
 
 
 # 📚 Chatbot Telegram FAQ Sekolah (n8n + Gemini)
